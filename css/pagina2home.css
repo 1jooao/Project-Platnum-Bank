@@ -1,0 +1,17 @@
+body{
+    background-color: #37474fe7;
+}
+
+.cartao {
+    display: flex;
+    flex-direction: column;
+    border-radius: 11px;
+    background-color: #37474f;
+    padding: 10px;
+    width: 1220px;   
+}
+
+img{
+    width: 1200px;
+    height: 380px;
+}

@@ -1,0 +1,11 @@
+.col-auto {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    border-radius: 11px;
+    background-color: #37474f;
+    padding: 10px;
+    width: 100%;  
+    margin-top: 30px;
+    left: 300px;
+}
